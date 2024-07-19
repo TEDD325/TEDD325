@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![dohker's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohker&show_icons=true&theme=radical)
 

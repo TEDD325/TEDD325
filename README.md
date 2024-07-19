@@ -20,6 +20,41 @@ Here are some ideas to get you started:
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                890 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+🌆 Daytime                3883 commits        █████████████░░░░░░░░░░░░   53.92 % 
+🌃 Evening                1931 commits        ███████░░░░░░░░░░░░░░░░░░   26.82 % 
+🌙 Night                  497 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   934 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Tuesday                  1858 commits        ██████░░░░░░░░░░░░░░░░░░░   25.80 % 
+Wednesday                1930 commits        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+Thursday                 1195 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Friday                   453 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Saturday                 661 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Sunday                   170 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 19/07/2024 12:47:53 UTC
 <!--END_SECTION:waka-->
 
 ![dohker's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohker&show_icons=true&theme=radical)

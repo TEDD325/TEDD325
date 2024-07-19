@@ -17,6 +17,19 @@ Here are some ideas to get you started:
 
 ![Header](./github-header-image.png)
 
+<div align="center">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg" />&nbsp
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" />&nbsp
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode1.svg" />&nbsp
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" />&nbsp
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" />&nbsp
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg" />&nbsp
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg" />&nbsp
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" />&nbsp
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm1.svg" />&nbsp
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio3.svg" />&nbsp
+</div>
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--START_SECTION:waka-->
@@ -57,19 +70,6 @@ No Activity Tracked This Week
  Last Updated on 19/07/2024 12:47:53 UTC
 <!--END_SECTION:waka-->
 
-![dohker's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohker&show_icons=true&theme=radical)
 
-<div align="center">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg" />&nbsp
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" />&nbsp
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LeetCode/leetcode1.svg" />&nbsp
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" />&nbsp
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" />&nbsp
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg" />&nbsp
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql3.svg" />&nbsp
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" />&nbsp
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm1.svg" />&nbsp
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio3.svg" />&nbsp
-</div>
 
 

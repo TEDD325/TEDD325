@@ -39,5 +39,7 @@ Here are some ideas to get you started:
 <!--   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp -->
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohker&show_icons=true&theme=radical)
+![dohker's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohker&show_icons=true&theme=radical)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

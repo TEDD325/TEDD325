@@ -34,12 +34,10 @@ Here are some ideas to get you started:
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg" />&nbsp
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PyCharm/pycharm1.svg" />&nbsp
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudio/visualstudio3.svg" />&nbsp
- 
-<!--   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp -->
-<!--   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp -->
 </div>
 
 ![dohker's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohker&show_icons=true&theme=radical)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<div align="center">
+
 ![dohker's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohker&show_icons=true&theme=radical)
-</div>
 
 <div align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg" />&nbsp

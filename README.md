@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+<!-- ![Header](./github-header-image.png) -->
 
 <div align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg" />&nbsp

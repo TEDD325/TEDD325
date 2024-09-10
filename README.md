@@ -38,15 +38,14 @@ Sunday                   196 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-git-practice             0 secs              ███████████████░░░░░░░░░░   61.10 % 
-marp                     0 secs              ██████████░░░░░░░░░░░░░░░   38.90 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/09/2024 00:17:02 UTC
+ Last Updated on 10/09/2024 00:15:57 UTC
 <!--END_SECTION:waka-->
 
 

@@ -38,16 +38,14 @@ Sunday                   198 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   1 hr 14 mins        ██████████████████░░░░░░░   70.79 % 
-Markdown                 30 mins             ███████░░░░░░░░░░░░░░░░░░   28.71 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-google-sheet-notifier    1 hr 44 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/12/2024 00:19:45 UTC
+ Last Updated on 10/12/2024 00:20:24 UTC
 <!--END_SECTION:waka-->
 
 

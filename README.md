@@ -38,14 +38,14 @@ Sunday                   204 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-SSH Config               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/02/2025 00:19:14 UTC
+ Last Updated on 02/02/2025 00:18:33 UTC
 <!--END_SECTION:waka-->
 
 

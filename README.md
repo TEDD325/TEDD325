@@ -38,14 +38,14 @@ Sunday                   204 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-fastapi                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/02/2025 00:18:43 UTC
+ Last Updated on 14/02/2025 00:18:41 UTC
 <!--END_SECTION:waka-->
 
 

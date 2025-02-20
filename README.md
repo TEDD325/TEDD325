@@ -38,14 +38,14 @@ Sunday                   204 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   3 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+5회차-파트2                  3 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/02/2025 00:18:33 UTC
+ Last Updated on 20/02/2025 00:18:30 UTC
 <!--END_SECTION:waka-->
 
 
